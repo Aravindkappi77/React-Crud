@@ -1,0 +1,52 @@
+[
+  {
+    "name": "James",
+    "email": "james@gmail.com",
+    "phone": "8583453234",
+    "address": {
+      "HNO": "90",
+      "street": "Chanda Nagar",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "country": "India"
+    }
+  },
+
+  {
+    "name": "Clara",
+    "email": "clara@gmail.com",
+    "phone": "9983423854",
+    "address": {
+      "HNO": "123",
+      "street": "Gokarna",
+      "city": "Gokarna",
+      "state": "Karnataka",
+      "country": "India"
+    }
+  },
+  {
+    "name": "Wayne",
+    "email": "wayne@gmail.com",
+    "phone": "4348273323",
+    "address": {
+      "HNO": "456",
+      "street": "Subhash street",
+      "city": "Banglore",
+      "state": "Karnataka",
+      "country": "India"
+    }
+  },
+
+  {
+    "name": "Maya",
+    "email": "maya@gmail.com",
+    "phone": "9920558566",
+    "address": {
+      "HNO": "101",
+      "street": "Ramayan street",
+      "city": "Nalgonda",
+      "state": "Telangana",
+      "country": "India"
+    }
+  }
+]
